@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "sozluk",
-    "slug": "sozluk",
-    "scheme": "sozluk",
+    "name": "ExpoStarter",
+    "slug": "expo-starter",
+    "scheme": "expo-starter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
